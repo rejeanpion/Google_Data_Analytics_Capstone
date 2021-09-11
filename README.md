@@ -1,4 +1,4 @@
-# Google Data Analyticsd Capstone Project
+# Google Data Analytics Capstone Project
 ### Cyclistic Annual Trend
 
 All the data are fictional and comes from Coursera/Google Data Anaylitics Certification  
